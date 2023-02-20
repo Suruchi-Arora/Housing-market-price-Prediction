@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 # import seaborn as sn
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 data=pd.read_csv("kc_house_data[1].csv")
 
