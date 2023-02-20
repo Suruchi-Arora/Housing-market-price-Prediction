@@ -7,7 +7,14 @@ The  objective of this research project is to predict real estate prices in King
 
 The criteria for comparing these models will be the r2 score and the machine learning model with lower error rate will be evaluatd and will be deployed. 
 
+## Dataset
+The dataset used in this project is by the name "kc_house_data[1].csv", comprised of 21613 observations with 17 features.
 
+
+## .py Files
+The "predict.py" file typically contains the code that actually runs the machine learning model and makes predictions. This file might define functions that load the model, preprocess input data, and generate predictions. It's essentially the "backend" of the application.
+
+The "app.py" file, on the other hand, typically contains the code that defines the user interface and handles user input and output. This file might define the layout of the web page, create interactive widgets.It's essentially the "frontend" of the application,makes it easy for users to interact with the machine learning model.
 
 
 ## Deployment
@@ -18,8 +25,6 @@ To deploy this project run
 streamlit run predict.py
 
 ```
-
-
 
 
 ## Installation
@@ -35,8 +40,7 @@ Install modules
   pip install streamlit  # for deployment
 
 ```
- 
- 
+
  
 ## Screenshots
 
@@ -44,10 +48,7 @@ OUTPUT SCREENSHOTS
 
 https://github.com/Suruchi-Arora/Housing-market-price-Prediction/blob/main/output_screenshot.png
 
-
 https://github.com/Suruchi-Arora/Housing-market-price-Prediction/blob/main/output_scrnsht2.png
-
-
 
 
 ## Contact
