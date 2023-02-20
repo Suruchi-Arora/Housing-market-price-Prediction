@@ -13,7 +13,9 @@ The criteria for comparing these models will be the r2 score and the machine lea
 To deploy this project run
 
 ```bash
-streamlit run predict.py ```
+streamlit run predict.py
+
+```
 
 
 
