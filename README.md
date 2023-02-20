@@ -8,6 +8,8 @@ The  objective of this research project is to predict real estate prices in King
 The criteria for comparing these models will be the r2 score and the machine learning model with lower error rate will be evaluatd and will be deployed. 
 
 
+
+
 ## Deployment
 
 To deploy this project run
@@ -16,6 +18,7 @@ To deploy this project run
 streamlit run predict.py
 
 ```
+
 
 
 
@@ -32,7 +35,9 @@ Install modules
   pip install streamlit  # for deployment
 
 ```
-    
+ 
+ 
+ 
 ## Screenshots
 
 OUTPUT SCREENSHOTS
@@ -43,11 +48,13 @@ https://github.com/Suruchi-Arora/Housing-market-price-Prediction/blob/main/outpu
 https://github.com/Suruchi-Arora/Housing-market-price-Prediction/blob/main/output_scrnsht2.png
 
 
+
+
 ## Contact
 
 If you have any questions or comments about this project, please feel free to contact me at:
 
 - Email: suruchi arora two five seven at gmail dot com
-- GitHub: [YourUsername](https://github.com/YourUsername)       #YourUsername=Suruchi-Arora
+- GitHub:https://github.com/Suruchi-Arora
 
 
